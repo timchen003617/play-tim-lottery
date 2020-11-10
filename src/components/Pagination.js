@@ -8,7 +8,7 @@ import {
   initialize,
   change
 } from 'redux-form'
-import { TextInput, SelectInput } from '../components'
+import { TextInput, SelectInput } from '.'
 import { showNotification } from '../actions'
 import clsx from 'clsx'
 import PropTypes from 'prop-types'
