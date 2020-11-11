@@ -2,5 +2,5 @@
 npm run dev
 
 ## 測試帳號
-admin
-Ab123456
+帳號：admin
+密碼：Ab123456
